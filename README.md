@@ -13,11 +13,11 @@ full stack developer • coffee enthusiast • perpetual learner
 ☕ coffee break stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chadhaharleenkaur00-prog&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadhaharleenkaur00-prog&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chadhaharleenkaur00-prog&show_icons=true&hide_border=true&theme=dracula" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadhaharleenkaur00-prog&layout=compact&hide_border=true&theme=dracula" />
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=chadhaharleenkaur00-prog&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=chadhaharleenkaur00-prog&theme=dracula&hide_border=true" />
 </p>
 
 
