@@ -71,7 +71,7 @@ Full-stack application for tracking and analyzing expenses.
 🌸 let’s connect
 
 <p>
-💼 LinkedIn → YOUR_LINKEDIN <br>
+💼 LinkedIn → https://www.linkedin.com/in/harleen-kaur-chadha/ <br>
 📧 Email → chadhaharleenkaur00@gmail.com <br>
 🌐 Portfolio → portfolio in the making
 </p>
