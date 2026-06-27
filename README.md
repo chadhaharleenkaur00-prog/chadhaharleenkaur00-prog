@@ -12,11 +12,14 @@ full stack developer • coffee enthusiast • perpetual learner
 
 🌷 about me
 <br>
-☕ Fueled by coffee and curiosity  
-💻 Building full-stack applications with React and .NET  
-🌱 Currently learning AI integrations and system design  
-🏋️ Gym enthusiast and lifelong learner  
-✨ Always working on a new side project
+
+* ☕ Powered by coffee and late-night coding sessions
+* 💻 Full Stack Developer passionate about building useful things
+* 🌱 Currently learning AI integrations and system design
+* 🚀 Building an AI Resume Maker with Next.js and Gemini API
+* 🏋️ Gym enthusiast who believes coding and workouts go hand in hand
+* 📚 Always learning, always building, always adding “just one more feature”
+* ✨ Interested in Full Stack Development, AI, and creating great user experiences
 <br>
 
 
