@@ -58,11 +58,11 @@ Full-stack application for tracking and analyzing expenses.
 ☕ coffee break stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chadhaharleenkaur00-prog&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadhaharleenkaur00-prog&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=chadhaharleenkaur00-prog&theme=tokyonight&hide_border=true" />
 </p>
 
 
