@@ -10,51 +10,6 @@ full stack developer • coffee enthusiast • perpetual learner
 
 <br>
 
-🌷 about me
-<br>
-
-* ☕ Powered by coffee and late-night coding sessions
-* 💻 Full Stack Developer passionate about building useful things
-* 🌱 Currently learning AI integrations and system design
-* 🚀 Building an AI Resume Maker with Next.js and Gemini API
-* 🏋️ Gym enthusiast who believes coding and workouts go hand in hand
-* 📚 Always learning, always building, always adding “just one more feature”
-* ✨ Interested in Full Stack Development, AI, and creating great user experiences
-<br>
-
-
-✨ currently
-<br>
-* 🤖 Building an AI Resume Maker with Next.js and Gemini API
-* 📚 Preparing for software engineering interviews
-* 🌱 Learning more about scalable systems and backend development
-* 🚀 Trying to become 1% better every day
-
-
-<br>
-
-🛠️ tech stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,cs,dotnet,tailwind,mysql,postgres,git,github,vscode" />
-</p>
-
-<br>
-
-💌 my little project corner
-
-🌸 Leave Management System
-Role-based leave management platform with JWT authentication and approval workflows.
-
-🌸 AI Resume Maker (currently building)
-AI-powered resume builder with resume generation and ATS optimization.
-
-🌸 Expense Tracker
-Full-stack application for tracking and analyzing expenses.
-
-
-<br>
-
 ☕ coffee break stats
 
 <p align="center">
@@ -80,14 +35,6 @@ Full-stack application for tracking and analyzing expenses.
 <br>
 
 <div align="center">
-
-☕ currently powered by caffeine and curiosity
-
-while(alive){
-   code();
-   drinkCoffee();
-   buildCoolThings();
-}
 
 Thanks for stopping by 🌷
 
