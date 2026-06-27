@@ -7,7 +7,7 @@ full stack developer • coffee enthusiast • perpetual learner
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+things+with+React+and+.NET;Currently+obsessed+with+AI+projects;Coffee+%2B+Code+%3D+my+happy+place" />
 </div>
 
-⸻
+
 
 🌷 about me
 
@@ -29,7 +29,7 @@ const harleen = {
   ]
 };
 
-⸻
+
 
 ✨ currently
 
@@ -38,7 +38,7 @@ const harleen = {
 * 🌱 Learning more about scalable systems and backend development
 * 🚀 Trying to become 1% better every day
 
-⸻
+
 
 🛠️ tech stack
 
@@ -46,7 +46,7 @@ const harleen = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,cs,dotnet,tailwind,mysql,postgres,git,github,vscode" />
 </p>
 
-⸻
+
 
 💌 my little project corner
 
@@ -59,7 +59,7 @@ AI-powered resume builder with resume generation and ATS optimization.
 🌸 Expense Tracker
 Full-stack application for tracking and analyzing expenses.
 
-⸻
+
 
 ☕ coffee break stats
 
@@ -71,7 +71,7 @@ Full-stack application for tracking and analyzing expenses.
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
-⸻
+
 
 🌸 let’s connect
 
@@ -81,7 +81,7 @@ Full-stack application for tracking and analyzing expenses.
 🌐 Portfolio → YOUR_PORTFOLIO
 </p>
 
-⸻
+
 
 <div align="center">
 
