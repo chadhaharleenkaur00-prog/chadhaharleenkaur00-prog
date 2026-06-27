@@ -1,6 +1,6 @@
 <div align="center">
 
-☕ hi, i’m harleen!
+☕ hi, i’m Leena!
 
 full stack developer • coffee enthusiast • perpetual learner
 
@@ -8,6 +8,7 @@ full stack developer • coffee enthusiast • perpetual learner
 </div>
 
 
+<br>
 
 🌷 about me
 
@@ -39,6 +40,7 @@ const harleen = {
 * 🚀 Trying to become 1% better every day
 
 
+<br>
 
 🛠️ tech stack
 
@@ -46,7 +48,7 @@ const harleen = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,cs,dotnet,tailwind,mysql,postgres,git,github,vscode" />
 </p>
 
-
+<br>
 
 💌 my little project corner
 
@@ -60,6 +62,7 @@ AI-powered resume builder with resume generation and ATS optimization.
 Full-stack application for tracking and analyzing expenses.
 
 
+<br>
 
 ☕ coffee break stats
 
@@ -73,15 +76,17 @@ Full-stack application for tracking and analyzing expenses.
 
 
 
+<br>
 🌸 let’s connect
 
 <p>
 💼 LinkedIn → YOUR_LINKEDIN <br>
-📧 Email → YOUR_EMAIL <br>
-🌐 Portfolio → YOUR_PORTFOLIO
+📧 Email → chadhaharleenkaur00@gmail.com <br>
+🌐 Portfolio → portfolio in the making
 </p>
 
 
+<br>
 
 <div align="center">
 
