@@ -11,6 +11,7 @@ full stack developer • coffee enthusiast • perpetual learner
 <br>
 
 🌷 about me
+<br>
 ☕ Fueled by coffee and curiosity  
 💻 Building full-stack applications with React and .NET  
 🌱 Currently learning AI integrations and system design  
@@ -20,7 +21,7 @@ full stack developer • coffee enthusiast • perpetual learner
 
 
 ✨ currently
-
+<br>
 * 🤖 Building an AI Resume Maker with Next.js and Gemini API
 * 📚 Preparing for software engineering interviews
 * 🌱 Learning more about scalable systems and backend development
