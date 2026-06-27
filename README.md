@@ -11,25 +11,12 @@ full stack developer • coffee enthusiast • perpetual learner
 <br>
 
 🌷 about me
-
-const harleen = {
-  location: "India 🇮🇳",
-  role: "Computer Science Student & Full Stack Developer",
-  code: ["C#", "JavaScript", "Python", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "Angular", "Tailwind CSS"],
-    backend: ["ASP.NET Core", ".NET", "Entity Framework"],
-    databases: ["SQL Server", "PostgreSQL", "MySQL"],
-    currentlyLearning: ["System Design", "AI Integrations"]
-  },
-  hobbies: [
-    "☕ trying new coffee",
-    "🏋️ gym sessions",
-    "💻 building side projects",
-    "📚 learning something new"
-  ]
-};
-
+☕ Fueled by coffee and curiosity  
+💻 Building full-stack applications with React and .NET  
+🌱 Currently learning AI integrations and system design  
+🏋️ Gym enthusiast and lifelong learner  
+✨ Always working on a new side project
+<br>
 
 
 ✨ currently
