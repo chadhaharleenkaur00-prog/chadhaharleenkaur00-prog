@@ -1,1 +1,98 @@
-Hey, I’m Leenaa 👋  I’m a Computer Science enthusiast who enjoys building full-stack applications and learning how things work under the hood.  Currently, I’m spending most of my time working with React, ASP.NET Core, and Next.js, and lately I’ve been experimenting with AI integrations and developer tools.  What I’m up to  * 🌱 Building an AI Resume Maker with Next.js and Gemini * 💻 Improving my DSA and problem-solving skills * 🚀 Looking for software engineering opportunities * 📚 Learning more about system design and scalable applications  Tech I use often  Languages:     C#, JavaScript, Python, SQL Frontend:      React.js, Next.js, Angular, Tailwind CSS Backend:       ASP.NET Core, .NET, Entity Framework Core Databases:     SQL Server, PostgreSQL, MySQL Other:         Git, REST APIs, JWT Authentication, Gemini API  A few projects I’m proud of  📌 Leave Management System A role-based leave management platform built using React and ASP.NET Core with authentication and approval workflows.  📌 AI Resume Maker (in progress) An AI-powered resume builder that generates summaries, improves bullet points, and exports resumes to PDF.  📌 Expense Tracker A full-stack application for tracking expenses and visualizing spending patterns.  GitHub Stats  Let’s connect  * LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN * Email: YOUR_EMAIL * Portfolio: YOUR_PORTFOLIO  Thanks for stopping by :)
+<div align="center">
+
+☕ hi, i’m harleen!
+
+full stack developer • coffee enthusiast • perpetual learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+things+with+React+and+.NET;Currently+obsessed+with+AI+projects;Coffee+%2B+Code+%3D+my+happy+place" />
+</div>
+
+⸻
+
+🌷 about me
+
+const harleen = {
+  location: "India 🇮🇳",
+  role: "Computer Science Student & Full Stack Developer",
+  code: ["C#", "JavaScript", "Python", "SQL"],
+  technologies: {
+    frontend: ["React", "Next.js", "Angular", "Tailwind CSS"],
+    backend: ["ASP.NET Core", ".NET", "Entity Framework"],
+    databases: ["SQL Server", "PostgreSQL", "MySQL"],
+    currentlyLearning: ["System Design", "AI Integrations"]
+  },
+  hobbies: [
+    "☕ trying new coffee",
+    "🏋️ gym sessions",
+    "💻 building side projects",
+    "📚 learning something new"
+  ]
+};
+
+⸻
+
+✨ currently
+
+* 🤖 Building an AI Resume Maker with Next.js and Gemini API
+* 📚 Preparing for software engineering interviews
+* 🌱 Learning more about scalable systems and backend development
+* 🚀 Trying to become 1% better every day
+
+⸻
+
+🛠️ tech stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,cs,dotnet,tailwind,mysql,postgres,git,github,vscode" />
+</p>
+
+⸻
+
+💌 my little project corner
+
+🌸 Leave Management System
+Role-based leave management platform with JWT authentication and approval workflows.
+
+🌸 AI Resume Maker (currently building)
+AI-powered resume builder with resume generation and ATS optimization.
+
+🌸 Expense Tracker
+Full-stack application for tracking and analyzing expenses.
+
+⸻
+
+☕ coffee break stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+⸻
+
+🌸 let’s connect
+
+<p>
+💼 LinkedIn → YOUR_LINKEDIN <br>
+📧 Email → YOUR_EMAIL <br>
+🌐 Portfolio → YOUR_PORTFOLIO
+</p>
+
+⸻
+
+<div align="center">
+
+☕ currently powered by caffeine and curiosity
+
+while(alive){
+   code();
+   drinkCoffee();
+   buildCoolThings();
+}
+
+Thanks for stopping by 🌷
+
+</div>
