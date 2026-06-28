@@ -19,9 +19,7 @@ full stack developer • coffee enthusiast • perpetual learner
 
 <img src="https://streak-stats.demolab.com?user=chadhaharleenkaur00-prog&theme=solarized-light&hide_border=true" />
 </p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=chadhaharleenkaur00-prog&theme=solarized-light&hide_border=true" />
-</p>
+
 
 
 
